@@ -49,7 +49,7 @@ const nextConfig = {
       fallback: [
         {
           source: '/:path*',
-          destination: 'https://labs2021.quansight.org/:path*',
+          destination: 'https://quansight-labs.netlify.app/:path*',
         },
       ],
     };
